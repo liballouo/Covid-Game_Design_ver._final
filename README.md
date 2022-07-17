@@ -39,4 +39,4 @@ Our Logo                   | User can choose device for volume
 * 新增貓咪攻擊圖像
 
 #### 修正歷程 (before ver 2.3)
-https://github.com/Rou-Yi/Covid-Game-Design-0812.git
+https://github.com/liballouo/Covid-Game_Design_original.git
